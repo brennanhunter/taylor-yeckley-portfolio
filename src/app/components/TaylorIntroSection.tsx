@@ -5,7 +5,7 @@ import { Heart, MapPin, Mail, ArrowRight, Gamepad2 } from 'lucide-react';
 
 export default function TaylorIntroSection() {
   return (
-    <div className="min-h-screen bg-gradient-to-br from-blue-50 via-white to-pink-50 relative overflow-hidden flex items-center">
+    <div className="py-8 pb-32 min-h-screen bg-gradient-to-br from-blue-50 via-white to-pink-50 relative overflow-hidden flex items-center">
       
       {/* Floating Gaming Elements */}
       <div className="absolute inset-0">
