@@ -143,12 +143,12 @@ export default function LongWalkHomeSection() {
               <div className="bg-white/60 backdrop-blur-sm border border-gray-200 rounded-xl p-6">
                 <h3 className="text-xl font-bold text-gray-800 mb-4">The Journey</h3>
                 <p className="text-gray-700 leading-relaxed mb-4">
-                  Starting at a lone campsite tucked in the hills, you'll wander through an abandoned saloon, 
+                  Starting at a lone campsite tucked in the hills, you&apos;ll wander through an abandoned saloon, 
                   uncover secrets beneath a ghost town, descend into a long-forgotten mine, and finally reach 
                   a quiet lake where something — or someone — waits across the water.
                 </p>
                 <p className="text-gray-600 text-sm italic">
-                  It's a journey through silence, memory, and the stories left behind. No combat. No timer. 
+                  It&apos;s a journey through silence, memory, and the stories left behind. No combat. No timer. 
                   Just you, the path, and the echoes it leaves behind.
                 </p>
               </div>
@@ -288,8 +288,8 @@ export default function LongWalkHomeSection() {
                 <h4 className="text-lg font-semibold text-gray-800">Key Learning</h4>
               </div>
               <p className="text-gray-700 leading-relaxed italic">
-                "Environmental storytelling is most powerful when players discover the narrative 
-                naturally through exploration."
+                &quot;Environmental storytelling is most powerful when players discover the narrative 
+                naturally through exploration.&quot;
               </p>
             </div>
           </motion.div>

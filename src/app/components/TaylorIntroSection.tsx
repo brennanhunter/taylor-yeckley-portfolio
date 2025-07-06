@@ -1,7 +1,7 @@
 'use client';
 
 import { motion } from 'framer-motion';
-import { Heart, MapPin, Mail, Phone, Linkedin, ArrowRight, Gamepad2 } from 'lucide-react';
+import { Heart, MapPin, Mail, ArrowRight, Gamepad2 } from 'lucide-react';
 
 export default function TaylorIntroSection() {
   return (
@@ -62,8 +62,8 @@ export default function TaylorIntroSection() {
                 transition={{ delay: 0.3 }}
                 className="text-5xl lg:text-6xl font-bold text-gray-800 leading-tight"
               >
-                Hey y'all,
-                <span className="block text-blue-600">I'm Taylor</span>
+                Hey y&apos;all,
+                <span className="block text-blue-600">I&apos;m Taylor</span>
               </motion.h1>
               
               <motion.p
@@ -84,7 +84,7 @@ export default function TaylorIntroSection() {
               className="bg-white/80 backdrop-blur-sm border border-blue-100 rounded-xl p-6 shadow-sm"
             >
               <p className="text-lg text-gray-700 leading-relaxed">
-                I'm a game developer, storyteller, and lifelong gamer who believes games can truly change lives — 
+                I&apos;m a game developer, storyteller, and lifelong gamer who believes games can truly change lives — 
                 because they sure changed mine. I build meaningful, immersive worlds that help folks feel seen, 
                 heard, and right at home.
               </p>
@@ -98,8 +98,8 @@ export default function TaylorIntroSection() {
               className="bg-gradient-to-r from-blue-500/10 to-purple-500/10 border-l-4 border-blue-500 rounded-r-lg p-6"
             >
               <blockquote className="text-xl text-gray-800 italic leading-relaxed">
-                "The moment I walked into Bungie and got to playtest, something just clicked. 
-                I remember thinking, 'This is it. This is where I'm meant to be.'"
+                &quot;The moment I walked into Bungie and got to playtest, something just clicked. 
+                I remember thinking, &apos;This is it. This is where I&apos;m meant to be.&apos;&quot;
               </blockquote>
             </motion.div>
 
@@ -157,7 +157,7 @@ export default function TaylorIntroSection() {
                 <div className="absolute inset-0 flex flex-col items-center justify-center text-gray-600">
                   <div className="text-8xl mb-4">🎮</div>
                   <div className="text-center">
-                    <div className="font-semibold text-lg">Taylor's Photo</div>
+                    <div className="font-semibold text-lg">Taylor&apos;s Photo</div>
                     <div className="text-sm text-gray-500">Professional Portrait</div>
                   </div>
                 </div>
@@ -207,9 +207,9 @@ export default function TaylorIntroSection() {
               <div className="bg-gradient-to-r from-pink-500/10 to-purple-500/10 border border-pink-200 rounded-xl p-6">
                 <h3 className="text-lg font-semibold text-gray-800 mb-3">My Mission</h3>
                 <p className="text-gray-700 leading-relaxed">
-                  "I care deeply about people — always have. If I can bring a little light, 
-                  a little hope, or even just a little fun to somebody's day through my work, 
-                  then I'm doing what I'm supposed to be doing."
+                  &quot;I care deeply about people — always have. If I can bring a little light, 
+                  a little hope, or even just a little fun to somebody&apos;s day through my work, 
+                  then I&apos;m doing what I&apos;m supposed to be doing.&quot;
                 </p>
               </div>
             </motion.div>

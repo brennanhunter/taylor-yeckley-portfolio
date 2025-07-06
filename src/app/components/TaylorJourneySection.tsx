@@ -1,7 +1,7 @@
 'use client';
 
 import { motion } from 'framer-motion';
-import { Heart, Stethoscope, Wrench, Home, Star, Gamepad2, Users, ArrowRight } from 'lucide-react';
+import { Heart, Stethoscope, Wrench, Home, Star, Gamepad2, Users } from 'lucide-react';
 
 export default function TaylorJourneySection() {
   const experiences = [
@@ -357,8 +357,8 @@ export default function TaylorJourneySection() {
                 <h3 className="text-lg sm:text-xl font-bold mb-2">The Moment Everything Clicked</h3>
                 
                 <blockquote className="text-sm sm:text-base italic leading-relaxed mb-4 max-w-xl mx-auto">
-                  "The moment I walked into Bungie and got to playtest, something just clicked. 
-                  I remember thinking, 'This is it. This is where I'm meant to be.'"
+                  &quot;The moment I walked into Bungie and got to playtest, something just clicked. 
+                  I remember thinking, &apos;This is it. This is where I&apos;m meant to be.&apos;&quot;
                 </blockquote>
 
                 <div className="grid grid-cols-3 gap-3">
@@ -397,7 +397,7 @@ export default function TaylorJourneySection() {
           >
             <div className="bg-white/60 backdrop-blur-sm border border-purple-200 rounded-lg p-3 max-w-2xl mx-auto">
               <p className="text-xs sm:text-sm text-gray-700 leading-relaxed">
-                I've worn a lot of hats in life, never stopped creating games with heart and purpose. 
+                I&apos;ve worn a lot of hats in life, never stopped creating games with heart and purpose. 
                 <span className="font-semibold text-purple-600">Games that feel like home for folks who need one.</span>
               </p>
             </div>

@@ -1,7 +1,7 @@
 'use client';
 
 import { motion } from 'framer-motion';
-import { Play, ExternalLink, Clock, User, Monitor, Target, Code, Lightbulb, Zap, Settings } from 'lucide-react';
+import { Play, ExternalLink, Clock, User, Target, Code, Lightbulb, Zap, Settings } from 'lucide-react';
 
 export default function SlipstreamSection() {
   return (
@@ -73,7 +73,7 @@ export default function SlipstreamSection() {
             </h2>
             
             <p className="text-lg text-gray-600 leading-relaxed max-w-3xl mx-auto">
-              High-velocity endless runner with '80s-inspired futuristic aesthetic
+              High-velocity endless runner with &apos;80s-inspired futuristic aesthetic
             </p>
           </motion.div>
 
@@ -148,7 +148,7 @@ export default function SlipstreamSection() {
               <div className="bg-white/60 backdrop-blur-sm border border-gray-200 rounded-xl p-6">
                 <h3 className="text-xl font-bold text-gray-800 mb-4">Game Concept</h3>
                 <p className="text-gray-700 leading-relaxed">
-                  In Slipstream, every coin counts — and every one cranks up your speed. You're a high-velocity runner 
+                  In Slipstream, every coin counts — and every one cranks up your speed. You&apos;re a high-velocity runner 
                   racing down a shifting track, dodging neon walls and weaving through chaos. The more you collect, 
                   the faster you go… until the inevitable collision ends your streak.
                 </p>
@@ -177,7 +177,7 @@ export default function SlipstreamSection() {
                   <h4 className="font-semibold text-gray-800">Visual Design</h4>
                 </div>
                 <p className="text-gray-700 text-sm leading-relaxed">
-                  I designed the color palette and lighting to reflect an '80s-inspired futuristic aesthetic — 
+                  I designed the color palette and lighting to reflect an &apos;80s-inspired futuristic aesthetic — 
                   bold neons, clean contrasts, and a digital arcade vibe. The layout supports fast-paced gameplay 
                   with clear visual lanes and obstacle paths.
                 </p>
@@ -243,8 +243,8 @@ export default function SlipstreamSection() {
               <div>
                 <h5 className="font-semibold text-gray-800 mb-2">Track Generation</h5>
                 <p className="text-gray-700 text-sm leading-relaxed">
-                  This Blueprint keeps the game movin' by spawning track pieces as the player runs and cleaning up the old ones behind them. 
-                  It's a smooth system that keeps things feeling endless without breaking the flow — no loading, no stutters, just non stop tracks.
+                  This Blueprint keeps the game movin&apos; by spawning track pieces as the player runs and cleaning up the old ones behind them. 
+                  It&apos;s a smooth system that keeps things feeling endless without breaking the flow — no loading, no stutters, just non stop tracks.
                 </p>
               </div>
               <div>

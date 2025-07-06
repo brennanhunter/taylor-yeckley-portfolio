@@ -101,7 +101,7 @@ export default function ContactSection() {
               className="inline-flex items-center gap-3 bg-pink-100 border border-pink-200 rounded-full px-4 py-2 text-pink-700 text-sm font-medium mb-4"
             >
               <Heart className="w-5 h-5" />
-              Let's Connect
+              Let&apos;s Connect
             </motion.div>
             
             <h2 className="text-3xl sm:text-4xl font-bold text-gray-800 mb-3">
@@ -110,7 +110,7 @@ export default function ContactSection() {
             </h2>
             
             <p className="text-lg text-gray-600 leading-relaxed max-w-3xl mx-auto">
-              Ready to create something unforgettable together? I'd love to hear about your project 
+              Ready to create something unforgettable together? I&apos;d love to hear about your project 
               and discuss how we can build meaningful gaming experiences.
             </p>
           </motion.div>
@@ -133,20 +133,20 @@ export default function ContactSection() {
                     <div className="w-12 h-12 bg-gradient-to-br from-pink-400 to-purple-500 rounded-full flex items-center justify-center">
                       <MessageCircle className="w-6 h-6 text-white" />
                     </div>
-                    <h3 className="text-xl font-bold text-gray-800">Hey y'all!</h3>
+                    <h3 className="text-xl font-bold text-gray-800">Hey y&apos;all!</h3>
                   </div>
                   
                   <div className="space-y-4 text-gray-700 leading-relaxed">
                     <p>
-                      I'm always excited to connect with fellow game developers, potential collaborators, 
+                      I&apos;m always excited to connect with fellow game developers, potential collaborators, 
                       and teams looking for someone who brings heart and purpose to their projects.
                     </p>
                     <p>
-                      Whether you're interested in my level design work, need UI/UX expertise, or just want 
-                      to chat about creating games that feel like home for folks who need one, I'd love to hear from you!
+                      Whether you&apos;re interested in my level design work, need UI/UX expertise, or just want 
+                      to chat about creating games that feel like home for folks who need one, I&apos;d love to hear from you!
                     </p>
                     <p className="font-medium text-purple-600">
-                      This journey means the world to me — and I'm so thankful y'all are here for the ride.
+                      This journey means the world to me — and I&apos;m so thankful y&apos;all are here for the ride.
                     </p>
                   </div>
                 </div>
@@ -167,7 +167,7 @@ export default function ContactSection() {
               <div className="bg-gradient-to-r from-blue-50 to-purple-50 border border-blue-200 rounded-xl p-6">
                 <h4 className="font-semibold text-gray-800 mb-3 flex items-center gap-2">
                   <Users className="w-5 h-5 text-blue-600" />
-                  What I'm Looking For
+                  What I&apos;m Looking For
                 </h4>
                 <ul className="text-gray-700 text-sm space-y-2">
                   <li>• Entry-level game design or level design opportunities</li>
@@ -281,12 +281,12 @@ export default function ContactSection() {
           >
             <div className="bg-gradient-to-r from-purple-100 to-pink-100 border border-purple-200 rounded-2xl p-8 max-w-4xl mx-auto">
               <h3 className="text-2xl font-bold text-gray-800 mb-4">
-                Let's Create Something Unforgettable Together
+                Let&apos;s Create Something Unforgettable Together
               </h3>
               <p className="text-gray-700 leading-relaxed mb-4">
                 I believe the best games come from teams that care about their players and each other. 
-                If you're looking for someone who brings technical skills, creative vision, and genuine passion 
-                for building meaningful experiences, I'd love to be part of your next adventure.
+                If you&apos;re looking for someone who brings technical skills, creative vision, and genuine passion 
+                for building meaningful experiences, I&apos;d love to be part of your next adventure.
               </p>
               <div className="flex items-center justify-center gap-2 text-purple-600">
                 <Heart className="w-5 h-5" />

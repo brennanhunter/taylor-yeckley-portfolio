@@ -1,7 +1,7 @@
 'use client';
 
 import { motion } from 'framer-motion';
-import { Play, ExternalLink, Clock, User, Monitor, Target, Palette, Lightbulb, FileText, Menu } from 'lucide-react';
+import { Play, ExternalLink, Clock, User, Target, Palette, Lightbulb } from 'lucide-react';
 
 export default function DaybreakSection() {
   return (
@@ -207,7 +207,7 @@ export default function DaybreakSection() {
                 </div>
                 <div className="absolute bottom-2 left-2 right-2">
                   <div className="bg-black/60 backdrop-blur-sm rounded px-2 py-1">
-                    <p className="text-white text-xs">"I may not be the greatest artist... but I sure know how to put my heart into it!"</p>
+                    <p className="text-white text-xs">&quot;I may not be the greatest artist... but I sure know how to put my heart into it!&quot;</p>
                   </div>
                 </div>
               </div>

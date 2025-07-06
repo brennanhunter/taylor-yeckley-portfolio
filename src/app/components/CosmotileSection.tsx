@@ -1,7 +1,7 @@
 'use client';
 
 import { motion } from 'framer-motion';
-import { Play, ExternalLink, Clock, User, Monitor, Target, Code, Lightbulb, TrendingUp } from 'lucide-react';
+import { Play, ExternalLink, Clock, User, Monitor, Target, Code, Lightbulb } from 'lucide-react';
 
 export default function CosmotileSection() {
   return (
